@@ -1,0 +1,16 @@
+C:\Users\4702306\source\repos\Collective-development-of-software-products\TCPSocketServer\TCPSocketServer\bin\Debug\net6.0-windows\TCPSocketServer.exe
+C:\Users\4702306\source\repos\Collective-development-of-software-products\TCPSocketServer\TCPSocketServer\bin\Debug\net6.0-windows\TCPSocketServer.deps.json
+C:\Users\4702306\source\repos\Collective-development-of-software-products\TCPSocketServer\TCPSocketServer\bin\Debug\net6.0-windows\TCPSocketServer.runtimeconfig.json
+C:\Users\4702306\source\repos\Collective-development-of-software-products\TCPSocketServer\TCPSocketServer\bin\Debug\net6.0-windows\TCPSocketServer.dll
+C:\Users\4702306\source\repos\Collective-development-of-software-products\TCPSocketServer\TCPSocketServer\bin\Debug\net6.0-windows\TCPSocketServer.pdb
+C:\Users\4702306\source\repos\Collective-development-of-software-products\TCPSocketServer\TCPSocketServer\obj\Debug\net6.0-windows\TCPSocketServer.Form1.resources
+C:\Users\4702306\source\repos\Collective-development-of-software-products\TCPSocketServer\TCPSocketServer\obj\Debug\net6.0-windows\TCPSocketServer.csproj.GenerateResource.cache
+C:\Users\4702306\source\repos\Collective-development-of-software-products\TCPSocketServer\TCPSocketServer\obj\Debug\net6.0-windows\TCPSocketServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\4702306\source\repos\Collective-development-of-software-products\TCPSocketServer\TCPSocketServer\obj\Debug\net6.0-windows\TCPSocketServer.AssemblyInfoInputs.cache
+C:\Users\4702306\source\repos\Collective-development-of-software-products\TCPSocketServer\TCPSocketServer\obj\Debug\net6.0-windows\TCPSocketServer.AssemblyInfo.cs
+C:\Users\4702306\source\repos\Collective-development-of-software-products\TCPSocketServer\TCPSocketServer\obj\Debug\net6.0-windows\TCPSocketServer.csproj.CoreCompileInputs.cache
+C:\Users\4702306\source\repos\Collective-development-of-software-products\TCPSocketServer\TCPSocketServer\obj\Debug\net6.0-windows\TCPSocketServer.dll
+C:\Users\4702306\source\repos\Collective-development-of-software-products\TCPSocketServer\TCPSocketServer\obj\Debug\net6.0-windows\refint\TCPSocketServer.dll
+C:\Users\4702306\source\repos\Collective-development-of-software-products\TCPSocketServer\TCPSocketServer\obj\Debug\net6.0-windows\TCPSocketServer.pdb
+C:\Users\4702306\source\repos\Collective-development-of-software-products\TCPSocketServer\TCPSocketServer\obj\Debug\net6.0-windows\TCPSocketServer.genruntimeconfig.cache
+C:\Users\4702306\source\repos\Collective-development-of-software-products\TCPSocketServer\TCPSocketServer\obj\Debug\net6.0-windows\ref\TCPSocketServer.dll
