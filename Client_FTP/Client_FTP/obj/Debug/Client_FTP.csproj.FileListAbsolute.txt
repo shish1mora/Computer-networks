@@ -23,3 +23,14 @@ C:\Users\4702306\source\repos\Collective-development-of-software-products\Client
 C:\Users\4702306\source\repos\Collective-development-of-software-products\Client_FTP\Client_FTP\obj\Debug\Client_FTP.csproj.CopyComplete
 C:\Users\4702306\source\repos\Collective-development-of-software-products\Client_FTP\Client_FTP\obj\Debug\Client_FTP.exe
 C:\Users\4702306\source\repos\Collective-development-of-software-products\Client_FTP\Client_FTP\obj\Debug\Client_FTP.pdb
+C:\Users\4702306\source\repos\Computer-networks\Client_FTP\Client_FTP\bin\Debug\Client_FTP.exe.config
+C:\Users\4702306\source\repos\Computer-networks\Client_FTP\Client_FTP\bin\Debug\Client_FTP.exe
+C:\Users\4702306\source\repos\Computer-networks\Client_FTP\Client_FTP\bin\Debug\Client_FTP.pdb
+C:\Users\4702306\source\repos\Computer-networks\Client_FTP\Client_FTP\obj\Debug\Client_FTP.csproj.AssemblyReference.cache
+C:\Users\4702306\source\repos\Computer-networks\Client_FTP\Client_FTP\obj\Debug\Client_FTP.Form1.resources
+C:\Users\4702306\source\repos\Computer-networks\Client_FTP\Client_FTP\obj\Debug\Client_FTP.Properties.Resources.resources
+C:\Users\4702306\source\repos\Computer-networks\Client_FTP\Client_FTP\obj\Debug\Client_FTP.csproj.GenerateResource.cache
+C:\Users\4702306\source\repos\Computer-networks\Client_FTP\Client_FTP\obj\Debug\Client_FTP.csproj.CoreCompileInputs.cache
+C:\Users\4702306\source\repos\Computer-networks\Client_FTP\Client_FTP\obj\Debug\Client_FTP.csproj.CopyComplete
+C:\Users\4702306\source\repos\Computer-networks\Client_FTP\Client_FTP\obj\Debug\Client_FTP.exe
+C:\Users\4702306\source\repos\Computer-networks\Client_FTP\Client_FTP\obj\Debug\Client_FTP.pdb

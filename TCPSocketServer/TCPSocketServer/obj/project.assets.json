@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\4702306\\source\\repos\\Collective-development-of-software-products\\TCPSocketServer\\TCPSocketServer\\TCPSocketServer.csproj",
+      "projectUniqueName": "C:\\Users\\4702306\\source\\repos\\Computer-networks\\TCPSocketServer\\TCPSocketServer\\TCPSocketServer.csproj",
       "projectName": "TCPSocketServer",
-      "projectPath": "C:\\Users\\4702306\\source\\repos\\Collective-development-of-software-products\\TCPSocketServer\\TCPSocketServer\\TCPSocketServer.csproj",
+      "projectPath": "C:\\Users\\4702306\\source\\repos\\Computer-networks\\TCPSocketServer\\TCPSocketServer\\TCPSocketServer.csproj",
       "packagesPath": "C:\\Users\\4702306\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\4702306\\source\\repos\\Collective-development-of-software-products\\TCPSocketServer\\TCPSocketServer\\obj\\",
+      "outputPath": "C:\\Users\\4702306\\source\\repos\\Computer-networks\\TCPSocketServer\\TCPSocketServer\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

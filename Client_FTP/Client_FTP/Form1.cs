@@ -69,8 +69,10 @@ namespace Client_FTP
                 MessageBox.Show(error.Message, "Error", MessageBoxButtons.OK, MessageBoxIcon.Error);
                 return;
             }
+            
             FolderBrowserDialog folderBrowserDialog = new FolderBrowserDialog();
-            DialogResult result = folderBrowserDialog.ShowDialog();
+            //DialogResult result = folderBrowserDialog.ShowDialog();
+            /*
             if (result == DialogResult.OK && !string.IsNullOrWhiteSpace(folderBrowserDialog.SelectedPath))
             {
                 string sourceDirectory = folderBrowserDialog.SelectedPath;
@@ -79,6 +81,8 @@ namespace Client_FTP
 
                 Console.WriteLine("Структура каталогов успешно воссоздана на FTP сервере.");
             }
+            */
+            
         }
         static void CopyDirectoryToFTP(string sourceDirectory, string ftpServerPath, string ftpUsername, string ftpPassword)
         {
